@@ -77,17 +77,5 @@ Acesse o [Google](https://www.google.com) ou [GitHub](https://github.com).
 
 ![Exemplo de imagem](https://via.placeholder.com/150)
 
-## 6. Código Inline
-
-Use o comando `npm start` para iniciar o servidor.
-
-## 7. Blocos de Código
-
-Você pode incluir blocos de código formatados em várias linguagens. Por exemplo, um bloco de JavaScript:
-
-```javascript
-function sayHello() {
-    console.log("Hello, world!");
-}
 
 
